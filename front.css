@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.logo {
+    height: 70px;
+    width: 100px;
+    background-size: cover;
+}
+
+.banner-section {
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    font-family: "Bree Serif";
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkOyRicvEXkuwH2e9J_JAbIeH5I-CqfezT7w&s");
+}
+
+.banner-heading {
+    color: #ffffff;
+}
+
+#section-home {
+    background-color: black;
+}
+
+#section-category {
+    background-color: black;
+}
+
+#section-foryou {
+    background-color: black;
+}
+
+#section-follow {
+    background-color: black;
+    font-family: "Bree Serif";
+    text-align: center;
+}
+
+.head-follow {
+    color: #ffffff;
+}
+
+.para-follow {
+    color: #ffffff;
+}
+
+.media {
+    border-radius: 25px;
+    margin: 10px;
+    padding: 16px;
+    height: 50px;
+    width: 50px;
+    background-color: #152c3e;
+    color: #ffffff;
+}
+
+.s-icon {
+    color: #ffffff;
+    font-size: 18px;
+}
+
+.follow-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+    color: #ffffff;
+    background-size: cover;
+    text-align: center;
+    padding: 24px;
+
+}
+
+.line {
+    background-color: #ffffff;
+    width: 75px;
+}
+
+
+.image {
+    border-radius: 40px;
+    height: 50%;
+
+}
+
+.home-heading {
+    font-family: "Bree Serif";
+    color: #ffffff;
+}
+
+.home-head {
+    font-family: "Bree Serif";
+    color: #ffffff;
+    font-size: 25px;
+}
+
+.home-item-link {
+    color: #ffffff;
+}
